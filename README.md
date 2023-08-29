@@ -15,7 +15,7 @@ MONITORING NETWORK & RESOURCES OPENWRT
 4. Upload Code
 5. Done
 
-video? comming soon
+video? comming soon hehehe
 
 ## About
 nosignal is gone
